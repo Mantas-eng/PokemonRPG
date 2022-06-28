@@ -1,0 +1,2316 @@
+fileFormatVersion: 2
+guid: 428f75e8ed2bd3b4488e8e62a8a45047
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4442084721009597828
+    second: pngfind.com-geodude-png-6904248_0
+  - first:
+      213: 2349830314747900241
+    second: pngfind.com-geodude-png-6904248_1
+  - first:
+      213: -2205520301013304904
+    second: pngfind.com-geodude-png-6904248_2
+  - first:
+      213: 7856463954696334187
+    second: pngfind.com-geodude-png-6904248_3
+  - first:
+      213: 252434901883536070
+    second: pngfind.com-geodude-png-6904248_4
+  - first:
+      213: -4553262663762376062
+    second: pngfind.com-geodude-png-6904248_5
+  - first:
+      213: 2703194169208445410
+    second: pngfind.com-geodude-png-6904248_6
+  - first:
+      213: -5154638186688706953
+    second: pngfind.com-geodude-png-6904248_7
+  - first:
+      213: 6323667836634654496
+    second: pngfind.com-geodude-png-6904248_8
+  - first:
+      213: -6729723156177708077
+    second: pngfind.com-geodude-png-6904248_9
+  - first:
+      213: -6005809391934554950
+    second: pngfind.com-geodude-png-6904248_10
+  - first:
+      213: -2245882619381374051
+    second: pngfind.com-geodude-png-6904248_11
+  - first:
+      213: -5999648087401543934
+    second: pngfind.com-geodude-png-6904248_12
+  - first:
+      213: 2809302072679282077
+    second: pngfind.com-geodude-png-6904248_13
+  - first:
+      213: -7510857317100321604
+    second: pngfind.com-geodude-png-6904248_14
+  - first:
+      213: 5505435493030258989
+    second: pngfind.com-geodude-png-6904248_15
+  - first:
+      213: 8134517648159618953
+    second: pngfind.com-geodude-png-6904248_16
+  - first:
+      213: 8558726909524183488
+    second: pngfind.com-geodude-png-6904248_17
+  - first:
+      213: 1909287231836501138
+    second: pngfind.com-geodude-png-6904248_18
+  - first:
+      213: 4949423917117463545
+    second: pngfind.com-geodude-png-6904248_19
+  - first:
+      213: -4097053779218762800
+    second: pngfind.com-geodude-png-6904248_20
+  - first:
+      213: 5290190418894462798
+    second: pngfind.com-geodude-png-6904248_21
+  - first:
+      213: 5309826664528470793
+    second: pngfind.com-geodude-png-6904248_22
+  - first:
+      213: -3814544833822915930
+    second: pngfind.com-geodude-png-6904248_23
+  - first:
+      213: 8777119220173461289
+    second: pngfind.com-geodude-png-6904248_24
+  - first:
+      213: -4682292714693621403
+    second: pngfind.com-geodude-png-6904248_25
+  - first:
+      213: -4669767347849895912
+    second: pngfind.com-geodude-png-6904248_26
+  - first:
+      213: -1366673701411441266
+    second: pngfind.com-geodude-png-6904248_27
+  - first:
+      213: 806837752755665318
+    second: pngfind.com-geodude-png-6904248_28
+  - first:
+      213: 6096885954601022346
+    second: pngfind.com-geodude-png-6904248_29
+  - first:
+      213: -1451361736325132171
+    second: pngfind.com-geodude-png-6904248_30
+  - first:
+      213: 1613196616000648862
+    second: pngfind.com-geodude-png-6904248_31
+  - first:
+      213: -9223278694691883319
+    second: pngfind.com-geodude-png-6904248_32
+  - first:
+      213: 6188669834138824961
+    second: pngfind.com-geodude-png-6904248_33
+  - first:
+      213: -1228288387995842105
+    second: pngfind.com-geodude-png-6904248_34
+  - first:
+      213: -7175809633333721462
+    second: pngfind.com-geodude-png-6904248_35
+  - first:
+      213: -5944409608196662378
+    second: pngfind.com-geodude-png-6904248_36
+  - first:
+      213: -2973049092731890543
+    second: pngfind.com-geodude-png-6904248_37
+  - first:
+      213: -8566834610299638459
+    second: pngfind.com-geodude-png-6904248_38
+  - first:
+      213: 3168548612254658315
+    second: pngfind.com-geodude-png-6904248_39
+  - first:
+      213: -2059021141840832006
+    second: pngfind.com-geodude-png-6904248_40
+  - first:
+      213: -3953778719340177813
+    second: pngfind.com-geodude-png-6904248_41
+  - first:
+      213: -6748071009537835466
+    second: pngfind.com-geodude-png-6904248_42
+  - first:
+      213: 5261862578378231689
+    second: pngfind.com-geodude-png-6904248_43
+  - first:
+      213: -4128151103278537396
+    second: pngfind.com-geodude-png-6904248_44
+  - first:
+      213: 7074507988244721981
+    second: pngfind.com-geodude-png-6904248_45
+  - first:
+      213: -6935729442265339405
+    second: pngfind.com-geodude-png-6904248_46
+  - first:
+      213: -4756363148151440781
+    second: pngfind.com-geodude-png-6904248_47
+  - first:
+      213: -4249058317480940467
+    second: pngfind.com-geodude-png-6904248_48
+  - first:
+      213: 4423438547145475874
+    second: pngfind.com-geodude-png-6904248_49
+  - first:
+      213: 4595281819562139675
+    second: pngfind.com-geodude-png-6904248_50
+  - first:
+      213: -1200672970553225426
+    second: pngfind.com-geodude-png-6904248_51
+  - first:
+      213: -4171356074683591447
+    second: pngfind.com-geodude-png-6904248_52
+  - first:
+      213: -3747862159183603252
+    second: pngfind.com-geodude-png-6904248_53
+  - first:
+      213: 438942516203568459
+    second: pngfind.com-geodude-png-6904248_54
+  - first:
+      213: 8886424320818719869
+    second: pngfind.com-geodude-png-6904248_55
+  - first:
+      213: -5078081069606502921
+    second: pngfind.com-geodude-png-6904248_56
+  - first:
+      213: -6322591613855538163
+    second: pngfind.com-geodude-png-6904248_57
+  - first:
+      213: -4064678576621477905
+    second: pngfind.com-geodude-png-6904248_58
+  - first:
+      213: 7380106454542153068
+    second: pngfind.com-geodude-png-6904248_59
+  - first:
+      213: 1389220669004011354
+    second: pngfind.com-geodude-png-6904248_60
+  - first:
+      213: 2366713520468356444
+    second: pngfind.com-geodude-png-6904248_61
+  - first:
+      213: -7920054537318371345
+    second: pngfind.com-geodude-png-6904248_62
+  - first:
+      213: 1524086508537394319
+    second: pngfind.com-geodude-png-6904248_63
+  - first:
+      213: 1367070900530335160
+    second: pngfind.com-geodude-png-6904248_64
+  - first:
+      213: 8989776110632347795
+    second: pngfind.com-geodude-png-6904248_65
+  - first:
+      213: -2014751170728728733
+    second: pngfind.com-geodude-png-6904248_66
+  - first:
+      213: 657961293108775623
+    second: pngfind.com-geodude-png-6904248_67
+  - first:
+      213: -3127260188169152854
+    second: pngfind.com-geodude-png-6904248_68
+  - first:
+      213: 4840463565633131903
+    second: pngfind.com-geodude-png-6904248_69
+  - first:
+      213: 2966351422964831805
+    second: pngfind.com-geodude-png-6904248_70
+  - first:
+      213: -6641280973676885163
+    second: pngfind.com-geodude-png-6904248_71
+  - first:
+      213: -8111581096051661812
+    second: pngfind.com-geodude-png-6904248_72
+  - first:
+      213: 6729942643551391709
+    second: pngfind.com-geodude-png-6904248_73
+  - first:
+      213: 5990288725457336125
+    second: pngfind.com-geodude-png-6904248_74
+  - first:
+      213: -5936076684320130492
+    second: pngfind.com-geodude-png-6904248_75
+  - first:
+      213: -8894138022927565537
+    second: pngfind.com-geodude-png-6904248_76
+  - first:
+      213: -6903387718652470987
+    second: pngfind.com-geodude-png-6904248_77
+  - first:
+      213: -2456161558032502228
+    second: pngfind.com-geodude-png-6904248_78
+  - first:
+      213: -7649970470904991832
+    second: pngfind.com-geodude-png-6904248_79
+  - first:
+      213: 1545135935479389564
+    second: pngfind.com-geodude-png-6904248_80
+  - first:
+      213: 937356301467186107
+    second: pngfind.com-geodude-png-6904248_81
+  - first:
+      213: -5201549480053849684
+    second: pngfind.com-geodude-png-6904248_82
+  - first:
+      213: 7568729041378040228
+    second: pngfind.com-geodude-png-6904248_83
+  - first:
+      213: -1800497123013196905
+    second: pngfind.com-geodude-png-6904248_84
+  - first:
+      213: 7762685286173435587
+    second: pngfind.com-geodude-png-6904248_85
+  - first:
+      213: 5775933675678203925
+    second: pngfind.com-geodude-png-6904248_86
+  - first:
+      213: -7321623088372552566
+    second: pngfind.com-geodude-png-6904248_87
+  - first:
+      213: 6635644536321135580
+    second: pngfind.com-geodude-png-6904248_88
+  - first:
+      213: -4127185683902876753
+    second: pngfind.com-geodude-png-6904248_89
+  - first:
+      213: 2467732770211548647
+    second: pngfind.com-geodude-png-6904248_90
+  - first:
+      213: -3435300345316531751
+    second: pngfind.com-geodude-png-6904248_91
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pngfind.com-geodude-png-6904248_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 562
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c72680e3b7b8a52c0800000000000000
+      internalID: -4442084721009597828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-geodude-png-6904248_1
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 565
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1513ef8a8364c9020800000000000000
+      internalID: 2349830314747900241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-geodude-png-6904248_2
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 562
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b97039b8fa6461e0800000000000000
+      internalID: -2205520301013304904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-geodude-png-6904248_3
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 562
+        width: 38
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6be55a6754c70d60800000000000000
+      internalID: 7856463954696334187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-geodude-png-6904248_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 565
+        width: 38
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c2cdafa434d08300800000000000000
+      internalID: 252434901883536070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-geodude-png-6904248_5
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 562
+        width: 38
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28a05654bbf8fc0c0800000000000000
+      internalID: -4553262663762376062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-geodude-png-6904248_6
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 562
+        width: 43
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e9939656cca38520800000000000000
+      internalID: 2703194169208445410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-geodude-png-6904248_7
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 565
+        width: 43
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77681c031eb0778b0800000000000000
+      internalID: -5154638186688706953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-geodude-png-6904248_8
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 562
+        width: 43
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 027eb28a46e22c750800000000000000
+      internalID: 6323667836634654496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-geodude-png-6904248_9
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 562
+        width: 53
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3db9e4fe1783b92a0800000000000000
+      internalID: -6729723156177708077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-geodude-png-6904248_10
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 565
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abc390d9d2417aca0800000000000000
+      internalID: -6005809391934554950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-geodude-png-6904248_11
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 562
+        width: 53
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d93ac8828a505d0e0800000000000000
+      internalID: -2245882619381374051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-geodude-png-6904248_12
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 485
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 207441d1ad7fcbca0800000000000000
+      internalID: -5999648087401543934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-geodude-png-6904248_13
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 485
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9531dcc955acf620800000000000000
+      internalID: 2809302072679282077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-geodude-png-6904248_14
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 485
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb48797701314c790800000000000000
+      internalID: -7510857317100321604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-geodude-png-6904248_15
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 482
+        width: 38
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2965ef696c376c40800000000000000
+      internalID: 5505435493030258989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-geodude-png-6904248_16
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 485
+        width: 38
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98733b5d3bc93e070800000000000000
+      internalID: 8134517648159618953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-geodude-png-6904248_17
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 482
+        width: 38
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c904c337c4b6c670800000000000000
+      internalID: 8558726909524183488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-geodude-png-6904248_18
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 482
+        width: 43
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 294bdcb1f962f7a10800000000000000
+      internalID: 1909287231836501138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-geodude-png-6904248_19
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 485
+        width: 43
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fbdb9654d2efa440800000000000000
+      internalID: 4949423917117463545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-geodude-png-6904248_20
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 482
+        width: 43
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d37eff7b475427c0800000000000000
+      internalID: -4097053779218762800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-geodude-png-6904248_21
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 482
+        width: 30
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4f116848288a6940800000000000000
+      internalID: 5290190418894462798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-geodude-png-6904248_22
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 485
+        width: 35
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 903ed1ef73b40b940800000000000000
+      internalID: 5309826664528470793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-geodude-png-6904248_23
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 482
+        width: 30
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a20f281fa3001bc0800000000000000
+      internalID: -3814544833822915930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-geodude-png-6904248_24
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 405
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92751b57d679ec970800000000000000
+      internalID: 8777119220173461289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-geodude-png-6904248_25
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 405
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56989467597250fb0800000000000000
+      internalID: -4682292714693621403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-geodude-png-6904248_26
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 405
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81060bfa657a13fb0800000000000000
+      internalID: -4669767347849895912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-geodude-png-6904248_27
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 402
+        width: 38
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e85b08f6289980de0800000000000000
+      internalID: -1366673701411441266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-geodude-png-6904248_28
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 405
+        width: 38
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a9306c49a6723b00800000000000000
+      internalID: 806837752755665318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-geodude-png-6904248_29
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 402
+        width: 38
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a83ff08197d7c9450800000000000000
+      internalID: 6096885954601022346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-geodude-png-6904248_30
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 402
+        width: 43
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5701fb1c03abbdbe0800000000000000
+      internalID: -1451361736325132171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-geodude-png-6904248_31
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 405
+        width: 43
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e96b49176c9336610800000000000000
+      internalID: 1613196616000648862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-geodude-png-6904248_32
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 402
+        width: 43
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c6367ae4e4500080800000000000000
+      internalID: -9223278694691883319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-geodude-png-6904248_33
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 402
+        width: 30
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1013508dc6292e550800000000000000
+      internalID: 6188669834138824961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-geodude-png-6904248_34
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 405
+        width: 35
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c945c7083e34fee0800000000000000
+      internalID: -1228288387995842105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-geodude-png-6904248_35
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 402
+        width: 30
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a86415558276a6c90800000000000000
+      internalID: -7175809633333721462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-geodude-png-6904248_36
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 325
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69bd408c4f6318da0800000000000000
+      internalID: -5944409608196662378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-geodude-png-6904248_37
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 327
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1941bef1a9b9db6d0800000000000000
+      internalID: -2973049092731890543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-geodude-png-6904248_38
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 325
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54d619b9f4d7c1980800000000000000
+      internalID: -8566834610299638459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-geodude-png-6904248_39
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 322
+        width: 38
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0feef6dc22f8fb20800000000000000
+      internalID: 3168548612254658315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-geodude-png-6904248_40
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 325
+        width: 38
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af9de8f3e23ec63e0800000000000000
+      internalID: -2059021141840832006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-geodude-png-6904248_41
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 322
+        width: 38
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b66da39e33b5129c0800000000000000
+      internalID: -3953778719340177813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-geodude-png-6904248_42
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 322
+        width: 43
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63eb26d6b290a52a0800000000000000
+      internalID: -6748071009537835466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-geodude-png-6904248_43
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 325
+        width: 43
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98fc721f224e50940800000000000000
+      internalID: 5261862578378231689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-geodude-png-6904248_44
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 322
+        width: 43
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4522f5817cd5b6c0800000000000000
+      internalID: -4128151103278537396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-geodude-png-6904248_45
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 322
+        width: 53
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d317dff6883bd2260800000000000000
+      internalID: 7074507988244721981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-geodude-png-6904248_46
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 325
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f96e8fb1d65fbf90800000000000000
+      internalID: -6935729442265339405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-geodude-png-6904248_47
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 322
+        width: 53
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37abca3cae00efdb0800000000000000
+      internalID: -4756363148151440781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-geodude-png-6904248_48
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 242
+        width: 53
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4c21a409ff4805c0800000000000000
+      internalID: -4249058317480940467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-geodude-png-6904248_49
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 245
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22740681ce5336d30800000000000000
+      internalID: 4423438547145475874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-geodude-png-6904248_50
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 242
+        width: 53
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b10efc1d778b5cf30800000000000000
+      internalID: 4595281819562139675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-geodude-png-6904248_51
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 257
+        width: 43
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2f03c27b4a565fe0800000000000000
+      internalID: -1200672970553225426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-geodude-png-6904248_52
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 260
+        width: 43
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e411d830cd5c16c0800000000000000
+      internalID: -4171356074683591447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-geodude-png-6904248_53
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 257
+        width: 43
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc99bb6293becfbc0800000000000000
+      internalID: -3747862159183603252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-geodude-png-6904248_54
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 260
+        width: 53
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4d312394ef671600800000000000000
+      internalID: 438942516203568459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-geodude-png-6904248_55
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 267
+        width: 53
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7caac566dbe25b70800000000000000
+      internalID: 8886424320818719869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-geodude-png-6904248_56
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 262
+        width: 53
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fdf7790c280789b0800000000000000
+      internalID: -5078081069606502921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-geodude-png-6904248_57
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 242
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d04e64cfc64a148a0800000000000000
+      internalID: -6322591613855538163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-geodude-png-6904248_58
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 245
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fef1652ce5c5797c0800000000000000
+      internalID: -4064678576621477905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-geodude-png-6904248_59
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 242
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c657d8b08b76b6660800000000000000
+      internalID: 7380106454542153068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-geodude-png-6904248_60
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 162
+        width: 180
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a575d9a86d0874310800000000000000
+      internalID: 1389220669004011354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-geodude-png-6904248_61
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 182
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5d61a0586148d020800000000000000
+      internalID: 2366713520468356444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-geodude-png-6904248_62
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 180
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fefea6d4c50561290800000000000000
+      internalID: -7920054537318371345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-geodude-png-6904248_63
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 182
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f843654ca94a62510800000000000000
+      internalID: 1524086508537394319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-geodude-png-6904248_64
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 180
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bd42e0bdbfc8f210800000000000000
+      internalID: 1367070900530335160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-geodude-png-6904248_65
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 182
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 398a8842eb912cc70800000000000000
+      internalID: 8989776110632347795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-geodude-png-6904248_66
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 180
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36769ed1c7a2a04e0800000000000000
+      internalID: -2014751170728728733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-geodude-png-6904248_67
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 162
+        width: 41
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ca84bf5f4c812900800000000000000
+      internalID: 657961293108775623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-geodude-png-6904248_68
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 165
+        width: 41
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa6d4f38d6db994d0800000000000000
+      internalID: -3127260188169152854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-geodude-png-6904248_69
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 162
+        width: 41
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7598c197f7cc2340800000000000000
+      internalID: 4840463565633131903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-geodude-png-6904248_70
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 82
+        width: 180
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d361bcc17e89a2920800000000000000
+      internalID: 2966351422964831805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-geodude-png-6904248_71
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 102
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55bcd66342e65d3a0800000000000000
+      internalID: -6641280973676885163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-geodude-png-6904248_72
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 100
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c04211b58ffdd6f80800000000000000
+      internalID: -8111581096051661812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-geodude-png-6904248_73
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 102
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddf42a37d2f856d50800000000000000
+      internalID: 6729942643551391709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-geodude-png-6904248_74
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 100
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3779ee9bd7c12350800000000000000
+      internalID: 5990288725457336125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-geodude-png-6904248_75
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 102
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44abe9fc4b1de9da0800000000000000
+      internalID: -5936076684320130492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-geodude-png-6904248_76
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 100
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1d7b10679ca19480800000000000000
+      internalID: -8894138022927565537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-geodude-png-6904248_77
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 85
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 539dce2127d3230a0800000000000000
+      internalID: -6903387718652470987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-geodude-png-6904248_78
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 85
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c22b0868316f9edd0800000000000000
+      internalID: -2456161558032502228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-geodude-png-6904248_79
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 85
+        width: 41
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8afea735368d5d590800000000000000
+      internalID: -7649970470904991832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-geodude-png-6904248_80
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 2
+        width: 46
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7d90f362fc617510800000000000000
+      internalID: 1545135935479389564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-geodude-png-6904248_81
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 5
+        width: 46
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb3fce00798220d00800000000000000
+      internalID: 937356301467186107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-geodude-png-6904248_82
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 2
+        width: 46
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca1c5cf8e4260d7b0800000000000000
+      internalID: -5201549480053849684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-geodude-png-6904248_83
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 27
+        width: 43
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a9558856f6890960800000000000000
+      internalID: 7568729041378040228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-geodude-png-6904248_84
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 27
+        width: 43
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7938fa3f7695307e0800000000000000
+      internalID: -1800497123013196905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-geodude-png-6904248_85
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 27
+        width: 43
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c6e489a3299abb60800000000000000
+      internalID: 7762685286173435587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-geodude-png-6904248_86
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 25
+        width: 53
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5100409631d382050800000000000000
+      internalID: 5775933675678203925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-geodude-png-6904248_87
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 27
+        width: 53
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8c614eb79e546a90800000000000000
+      internalID: -7321623088372552566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-geodude-png-6904248_88
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 25
+        width: 53
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd3de237c8b861c50800000000000000
+      internalID: 6635644536321135580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-geodude-png-6904248_89
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 0
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa334ecbc7a49b6c0800000000000000
+      internalID: -4127185683902876753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-geodude-png-6904248_90
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 5
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7edcc0141e52f3220800000000000000
+      internalID: 2467732770211548647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-geodude-png-6904248_91
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 0
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d1a1a4798c5350d0800000000000000
+      internalID: -3435300345316531751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

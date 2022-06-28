@@ -1,0 +1,1548 @@
+fileFormatVersion: 2
+guid: 3e0056b20e10eb4489255643f38a8198
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5684465998948334281
+    second: _wip__emerald_brendan_dppt_hgss_gen_4_sprite_sheet_by_hyo_oppa_deammik_0
+  - first:
+      213: -714168186829011023
+    second: _wip__emerald_brendan_dppt_hgss_gen_4_sprite_sheet_by_hyo_oppa_deammik_1
+  - first:
+      213: -4270673144371918310
+    second: _wip__emerald_brendan_dppt_hgss_gen_4_sprite_sheet_by_hyo_oppa_deammik_2
+  - first:
+      213: -1808837032646126991
+    second: _wip__emerald_brendan_dppt_hgss_gen_4_sprite_sheet_by_hyo_oppa_deammik_3
+  - first:
+      213: -4539344866315041868
+    second: _wip__emerald_brendan_dppt_hgss_gen_4_sprite_sheet_by_hyo_oppa_deammik_4
+  - first:
+      213: 2901062273385565995
+    second: _wip__emerald_brendan_dppt_hgss_gen_4_sprite_sheet_by_hyo_oppa_deammik_5
+  - first:
+      213: -6686969677190423304
+    second: _wip__emerald_brendan_dppt_hgss_gen_4_sprite_sheet_by_hyo_oppa_deammik_6
+  - first:
+      213: -5262197437265993985
+    second: _wip__emerald_brendan_dppt_hgss_gen_4_sprite_sheet_by_hyo_oppa_deammik_7
+  - first:
+      213: 6292906096556968515
+    second: _wip__emerald_brendan_dppt_hgss_gen_4_sprite_sheet_by_hyo_oppa_deammik_8
+  - first:
+      213: 2087848478612143496
+    second: _wip__emerald_brendan_dppt_hgss_gen_4_sprite_sheet_by_hyo_oppa_deammik_9
+  - first:
+      213: -3478634616459613047
+    second: _wip__emerald_brendan_dppt_hgss_gen_4_sprite_sheet_by_hyo_oppa_deammik_10
+  - first:
+      213: 3945998589268732768
+    second: _wip__emerald_brendan_dppt_hgss_gen_4_sprite_sheet_by_hyo_oppa_deammik_11
+  - first:
+      213: 8737750673108633180
+    second: _wip__emerald_brendan_dppt_hgss_gen_4_sprite_sheet_by_hyo_oppa_deammik_12
+  - first:
+      213: -740623341882003113
+    second: _wip__emerald_brendan_dppt_hgss_gen_4_sprite_sheet_by_hyo_oppa_deammik_13
+  - first:
+      213: 4237675819018523847
+    second: _wip__emerald_brendan_dppt_hgss_gen_4_sprite_sheet_by_hyo_oppa_deammik_14
+  - first:
+      213: 552770171830076830
+    second: _wip__emerald_brendan_dppt_hgss_gen_4_sprite_sheet_by_hyo_oppa_deammik_15
+  - first:
+      213: 2513625248010781202
+    second: _wip__emerald_brendan_dppt_hgss_gen_4_sprite_sheet_by_hyo_oppa_deammik_16
+  - first:
+      213: 7356469590058289914
+    second: _wip__emerald_brendan_dppt_hgss_gen_4_sprite_sheet_by_hyo_oppa_deammik_17
+  - first:
+      213: -3686365557107234872
+    second: _wip__emerald_brendan_dppt_hgss_gen_4_sprite_sheet_by_hyo_oppa_deammik_18
+  - first:
+      213: 5855742306458051084
+    second: _wip__emerald_brendan_dppt_hgss_gen_4_sprite_sheet_by_hyo_oppa_deammik_19
+  - first:
+      213: 2616802551181214417
+    second: _wip__emerald_brendan_dppt_hgss_gen_4_sprite_sheet_by_hyo_oppa_deammik_20
+  - first:
+      213: -7225634152999176232
+    second: _wip__emerald_brendan_dppt_hgss_gen_4_sprite_sheet_by_hyo_oppa_deammik_21
+  - first:
+      213: -5625560653349539493
+    second: _wip__emerald_brendan_dppt_hgss_gen_4_sprite_sheet_by_hyo_oppa_deammik_22
+  - first:
+      213: 3295689256656694021
+    second: _wip__emerald_brendan_dppt_hgss_gen_4_sprite_sheet_by_hyo_oppa_deammik_23
+  - first:
+      213: 5686824930915469576
+    second: _wip__emerald_brendan_dppt_hgss_gen_4_sprite_sheet_by_hyo_oppa_deammik_24
+  - first:
+      213: -5320870489499594173
+    second: _wip__emerald_brendan_dppt_hgss_gen_4_sprite_sheet_by_hyo_oppa_deammik_25
+  - first:
+      213: -6323032229448822628
+    second: _wip__emerald_brendan_dppt_hgss_gen_4_sprite_sheet_by_hyo_oppa_deammik_26
+  - first:
+      213: 186577750520305951
+    second: _wip__emerald_brendan_dppt_hgss_gen_4_sprite_sheet_by_hyo_oppa_deammik_27
+  - first:
+      213: 4017549803148862245
+    second: _wip__emerald_brendan_dppt_hgss_gen_4_sprite_sheet_by_hyo_oppa_deammik_28
+  - first:
+      213: 5552673698174671922
+    second: _wip__emerald_brendan_dppt_hgss_gen_4_sprite_sheet_by_hyo_oppa_deammik_29
+  - first:
+      213: -9194323736018567447
+    second: _wip__emerald_brendan_dppt_hgss_gen_4_sprite_sheet_by_hyo_oppa_deammik_30
+  - first:
+      213: -4199038980697105201
+    second: _wip__emerald_brendan_dppt_hgss_gen_4_sprite_sheet_by_hyo_oppa_deammik_31
+  - first:
+      213: -787369588235974976
+    second: _wip__emerald_brendan_dppt_hgss_gen_4_sprite_sheet_by_hyo_oppa_deammik_32
+  - first:
+      213: -2827977712650465111
+    second: _wip__emerald_brendan_dppt_hgss_gen_4_sprite_sheet_by_hyo_oppa_deammik_33
+  - first:
+      213: -818535550242394239
+    second: _wip__emerald_brendan_dppt_hgss_gen_4_sprite_sheet_by_hyo_oppa_deammik_34
+  - first:
+      213: 9080938217402580305
+    second: _wip__emerald_brendan_dppt_hgss_gen_4_sprite_sheet_by_hyo_oppa_deammik_35
+  - first:
+      213: 7034137164131364776
+    second: _wip__emerald_brendan_dppt_hgss_gen_4_sprite_sheet_by_hyo_oppa_deammik_36
+  - first:
+      213: -1769659813035210873
+    second: _wip__emerald_brendan_dppt_hgss_gen_4_sprite_sheet_by_hyo_oppa_deammik_37
+  - first:
+      213: -5068737551720232404
+    second: _wip__emerald_brendan_dppt_hgss_gen_4_sprite_sheet_by_hyo_oppa_deammik_38
+  - first:
+      213: -9150450388002310682
+    second: _wip__emerald_brendan_dppt_hgss_gen_4_sprite_sheet_by_hyo_oppa_deammik_39
+  - first:
+      213: 2492540041416969503
+    second: _wip__emerald_brendan_dppt_hgss_gen_4_sprite_sheet_by_hyo_oppa_deammik_40
+  - first:
+      213: -362387931050026490
+    second: _wip__emerald_brendan_dppt_hgss_gen_4_sprite_sheet_by_hyo_oppa_deammik_41
+  - first:
+      213: -7095250222340773641
+    second: _wip__emerald_brendan_dppt_hgss_gen_4_sprite_sheet_by_hyo_oppa_deammik_42
+  - first:
+      213: -3920181865280241829
+    second: _wip__emerald_brendan_dppt_hgss_gen_4_sprite_sheet_by_hyo_oppa_deammik_43
+  - first:
+      213: 93831234256731584
+    second: _wip__emerald_brendan_dppt_hgss_gen_4_sprite_sheet_by_hyo_oppa_deammik_44
+  - first:
+      213: 879807216157502405
+    second: _wip__emerald_brendan_dppt_hgss_gen_4_sprite_sheet_by_hyo_oppa_deammik_45
+  - first:
+      213: 3944006423845243117
+    second: _wip__emerald_brendan_dppt_hgss_gen_4_sprite_sheet_by_hyo_oppa_deammik_46
+  - first:
+      213: -929027510573866474
+    second: _wip__emerald_brendan_dppt_hgss_gen_4_sprite_sheet_by_hyo_oppa_deammik_47
+  - first:
+      213: 1058843524383214284
+    second: _wip__emerald_brendan_dppt_hgss_gen_4_sprite_sheet_by_hyo_oppa_deammik_48
+  - first:
+      213: 5353969913779621021
+    second: _wip__emerald_brendan_dppt_hgss_gen_4_sprite_sheet_by_hyo_oppa_deammik_49
+  - first:
+      213: 7100962915681850455
+    second: _wip__emerald_brendan_dppt_hgss_gen_4_sprite_sheet_by_hyo_oppa_deammik_50
+  - first:
+      213: -2402356594990803945
+    second: _wip__emerald_brendan_dppt_hgss_gen_4_sprite_sheet_by_hyo_oppa_deammik_51
+  - first:
+      213: -408637556863343576
+    second: _wip__emerald_brendan_dppt_hgss_gen_4_sprite_sheet_by_hyo_oppa_deammik_52
+  - first:
+      213: -6092799468739338310
+    second: _wip__emerald_brendan_dppt_hgss_gen_4_sprite_sheet_by_hyo_oppa_deammik_53
+  - first:
+      213: -5533888604010855523
+    second: _wip__emerald_brendan_dppt_hgss_gen_4_sprite_sheet_by_hyo_oppa_deammik_54
+  - first:
+      213: -2056508977703764279
+    second: _wip__emerald_brendan_dppt_hgss_gen_4_sprite_sheet_by_hyo_oppa_deammik_55
+  - first:
+      213: 3941721205673154755
+    second: _wip__emerald_brendan_dppt_hgss_gen_4_sprite_sheet_by_hyo_oppa_deammik_56
+  - first:
+      213: -6487160962765719742
+    second: _wip__emerald_brendan_dppt_hgss_gen_4_sprite_sheet_by_hyo_oppa_deammik_57
+  - first:
+      213: -2012322205862210707
+    second: _wip__emerald_brendan_dppt_hgss_gen_4_sprite_sheet_by_hyo_oppa_deammik_58
+  - first:
+      213: 4747291304671410979
+    second: _wip__emerald_brendan_dppt_hgss_gen_4_sprite_sheet_by_hyo_oppa_deammik_59
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: _wip__emerald_brendan_dppt_hgss_gen_4_sprite_sheet_by_hyo_oppa_deammik_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 225
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73506e2aa48bc11b0800000000000000
+      internalID: -5684465998948334281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _wip__emerald_brendan_dppt_hgss_gen_4_sprite_sheet_by_hyo_oppa_deammik_1
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 226
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b70c2261d3c616f0800000000000000
+      internalID: -714168186829011023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _wip__emerald_brendan_dppt_hgss_gen_4_sprite_sheet_by_hyo_oppa_deammik_2
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 225
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1a49e5f6658bb4c0800000000000000
+      internalID: -4270673144371918310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _wip__emerald_brendan_dppt_hgss_gen_4_sprite_sheet_by_hyo_oppa_deammik_3
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 227
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1725e8c6d48b5e6e0800000000000000
+      internalID: -1808837032646126991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _wip__emerald_brendan_dppt_hgss_gen_4_sprite_sheet_by_hyo_oppa_deammik_4
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 228
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b38c4205e10101c0800000000000000
+      internalID: -4539344866315041868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _wip__emerald_brendan_dppt_hgss_gen_4_sprite_sheet_by_hyo_oppa_deammik_5
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 227
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2f0f6464c4a24820800000000000000
+      internalID: 2901062273385565995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _wip__emerald_brendan_dppt_hgss_gen_4_sprite_sheet_by_hyo_oppa_deammik_6
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 224
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fc9147f18c1333a0800000000000000
+      internalID: -6686969677190423304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _wip__emerald_brendan_dppt_hgss_gen_4_sprite_sheet_by_hyo_oppa_deammik_7
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 224
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffe1ac5af4be8f6b0800000000000000
+      internalID: -5262197437265993985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _wip__emerald_brendan_dppt_hgss_gen_4_sprite_sheet_by_hyo_oppa_deammik_8
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 224
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34a0b2ae0c4e45750800000000000000
+      internalID: 6292906096556968515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _wip__emerald_brendan_dppt_hgss_gen_4_sprite_sheet_by_hyo_oppa_deammik_9
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 227
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88d3480212789fc10800000000000000
+      internalID: 2087848478612143496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _wip__emerald_brendan_dppt_hgss_gen_4_sprite_sheet_by_hyo_oppa_deammik_10
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 227
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98c2c863f3869bfc0800000000000000
+      internalID: -3478634616459613047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _wip__emerald_brendan_dppt_hgss_gen_4_sprite_sheet_by_hyo_oppa_deammik_11
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 226
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06b2e856fc003c630800000000000000
+      internalID: 3945998589268732768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _wip__emerald_brendan_dppt_hgss_gen_4_sprite_sheet_by_hyo_oppa_deammik_12
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 227
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c56029e41f9b24970800000000000000
+      internalID: 8737750673108633180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _wip__emerald_brendan_dppt_hgss_gen_4_sprite_sheet_by_hyo_oppa_deammik_13
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 192
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 751b2ca9ef6c8b5f0800000000000000
+      internalID: -740623341882003113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _wip__emerald_brendan_dppt_hgss_gen_4_sprite_sheet_by_hyo_oppa_deammik_14
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 193
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c49cd984bf3fca30800000000000000
+      internalID: 4237675819018523847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _wip__emerald_brendan_dppt_hgss_gen_4_sprite_sheet_by_hyo_oppa_deammik_15
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 192
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e950d56ea85dba700800000000000000
+      internalID: 552770171830076830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _wip__emerald_brendan_dppt_hgss_gen_4_sprite_sheet_by_hyo_oppa_deammik_16
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 193
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 212c22668d032e220800000000000000
+      internalID: 2513625248010781202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _wip__emerald_brendan_dppt_hgss_gen_4_sprite_sheet_by_hyo_oppa_deammik_17
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 194
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afa436cad1e671660800000000000000
+      internalID: 7356469590058289914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _wip__emerald_brendan_dppt_hgss_gen_4_sprite_sheet_by_hyo_oppa_deammik_18
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 193
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c763689e0667dcc0800000000000000
+      internalID: -3686365557107234872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _wip__emerald_brendan_dppt_hgss_gen_4_sprite_sheet_by_hyo_oppa_deammik_19
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 192
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c02a8a84a96c34150800000000000000
+      internalID: 5855742306458051084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _wip__emerald_brendan_dppt_hgss_gen_4_sprite_sheet_by_hyo_oppa_deammik_20
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 192
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d20e7e4e00c05420800000000000000
+      internalID: 2616802551181214417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _wip__emerald_brendan_dppt_hgss_gen_4_sprite_sheet_by_hyo_oppa_deammik_21
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 192
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d7bd89550469bb90800000000000000
+      internalID: -7225634152999176232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _wip__emerald_brendan_dppt_hgss_gen_4_sprite_sheet_by_hyo_oppa_deammik_22
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 195
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b51bfaa246efde1b0800000000000000
+      internalID: -5625560653349539493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _wip__emerald_brendan_dppt_hgss_gen_4_sprite_sheet_by_hyo_oppa_deammik_23
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 195
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50be719eae3acbd20800000000000000
+      internalID: 3295689256656694021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _wip__emerald_brendan_dppt_hgss_gen_4_sprite_sheet_by_hyo_oppa_deammik_24
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 195
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8094d030529abee40800000000000000
+      internalID: 5686824930915469576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _wip__emerald_brendan_dppt_hgss_gen_4_sprite_sheet_by_hyo_oppa_deammik_25
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 194
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34294812b787826b0800000000000000
+      internalID: -5320870489499594173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _wip__emerald_brendan_dppt_hgss_gen_4_sprite_sheet_by_hyo_oppa_deammik_26
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 161
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c905b5c20b31048a0800000000000000
+      internalID: -6323032229448822628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _wip__emerald_brendan_dppt_hgss_gen_4_sprite_sheet_by_hyo_oppa_deammik_27
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 161
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1911ceb97bd69200800000000000000
+      internalID: 186577750520305951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _wip__emerald_brendan_dppt_hgss_gen_4_sprite_sheet_by_hyo_oppa_deammik_28
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 162
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 523e024924431c730800000000000000
+      internalID: 4017549803148862245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _wip__emerald_brendan_dppt_hgss_gen_4_sprite_sheet_by_hyo_oppa_deammik_29
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 162
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23c1b552f4f0f0d40800000000000000
+      internalID: 5552673698174671922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _wip__emerald_brendan_dppt_hgss_gen_4_sprite_sheet_by_hyo_oppa_deammik_30
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 162
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eebba49643376080800000000000000
+      internalID: -9194323736018567447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _wip__emerald_brendan_dppt_hgss_gen_4_sprite_sheet_by_hyo_oppa_deammik_31
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 162
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fccd7856b440ab5c0800000000000000
+      internalID: -4199038980697105201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _wip__emerald_brendan_dppt_hgss_gen_4_sprite_sheet_by_hyo_oppa_deammik_32
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 160
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c6cf3af783b215f0800000000000000
+      internalID: -787369588235974976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _wip__emerald_brendan_dppt_hgss_gen_4_sprite_sheet_by_hyo_oppa_deammik_33
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 160
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a05fbce04101c8d0800000000000000
+      internalID: -2827977712650465111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _wip__emerald_brendan_dppt_hgss_gen_4_sprite_sheet_by_hyo_oppa_deammik_34
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 160
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18fe5cbf04af3a4f0800000000000000
+      internalID: -818535550242394239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _wip__emerald_brendan_dppt_hgss_gen_4_sprite_sheet_by_hyo_oppa_deammik_35
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 118
+        width: 33
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15dbc832239f50e70800000000000000
+      internalID: 9080938217402580305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _wip__emerald_brendan_dppt_hgss_gen_4_sprite_sheet_by_hyo_oppa_deammik_36
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 129
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8af6c697b764e9160800000000000000
+      internalID: 7034137164131364776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _wip__emerald_brendan_dppt_hgss_gen_4_sprite_sheet_by_hyo_oppa_deammik_37
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 128
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78780cea6c7e077e0800000000000000
+      internalID: -1769659813035210873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _wip__emerald_brendan_dppt_hgss_gen_4_sprite_sheet_by_hyo_oppa_deammik_38
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 128
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2a48025d0a38a9b0800000000000000
+      internalID: -5068737551720232404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _wip__emerald_brendan_dppt_hgss_gen_4_sprite_sheet_by_hyo_oppa_deammik_39
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 129
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e579407ad1130180800000000000000
+      internalID: -9150450388002310682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _wip__emerald_brendan_dppt_hgss_gen_4_sprite_sheet_by_hyo_oppa_deammik_40
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 129
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1d881d26f7479220800000000000000
+      internalID: 2492540041416969503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _wip__emerald_brendan_dppt_hgss_gen_4_sprite_sheet_by_hyo_oppa_deammik_41
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 129
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60adfd2c81a88faf0800000000000000
+      internalID: -362387931050026490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _wip__emerald_brendan_dppt_hgss_gen_4_sprite_sheet_by_hyo_oppa_deammik_42
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 128
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f8edd8d38b988d90800000000000000
+      internalID: -7095250222340773641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _wip__emerald_brendan_dppt_hgss_gen_4_sprite_sheet_by_hyo_oppa_deammik_43
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 128
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5ffa011d57b899c0800000000000000
+      internalID: -3920181865280241829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _wip__emerald_brendan_dppt_hgss_gen_4_sprite_sheet_by_hyo_oppa_deammik_44
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 128
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cd75baa20b5d4100800000000000000
+      internalID: 93831234256731584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _wip__emerald_brendan_dppt_hgss_gen_4_sprite_sheet_by_hyo_oppa_deammik_45
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 72
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cba4ed6004b53c00800000000000000
+      internalID: 879807216157502405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _wip__emerald_brendan_dppt_hgss_gen_4_sprite_sheet_by_hyo_oppa_deammik_46
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 105
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de8872d32fcebb630800000000000000
+      internalID: 3944006423845243117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _wip__emerald_brendan_dppt_hgss_gen_4_sprite_sheet_by_hyo_oppa_deammik_47
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 103
+        width: 42
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 612edadb66e6b13f0800000000000000
+      internalID: -929027510573866474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _wip__emerald_brendan_dppt_hgss_gen_4_sprite_sheet_by_hyo_oppa_deammik_48
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 105
+        width: 47
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cca859f4394c1be00800000000000000
+      internalID: 1058843524383214284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _wip__emerald_brendan_dppt_hgss_gen_4_sprite_sheet_by_hyo_oppa_deammik_49
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 103
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9c86f0254f1d4a40800000000000000
+      internalID: 5353969913779621021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _wip__emerald_brendan_dppt_hgss_gen_4_sprite_sheet_by_hyo_oppa_deammik_50
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 87
+        width: 59
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75450783620bb8260800000000000000
+      internalID: 7100962915681850455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _wip__emerald_brendan_dppt_hgss_gen_4_sprite_sheet_by_hyo_oppa_deammik_51
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 71
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71491c3b76d19aed0800000000000000
+      internalID: -2402356594990803945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _wip__emerald_brendan_dppt_hgss_gen_4_sprite_sheet_by_hyo_oppa_deammik_52
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 73
+        width: 36
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 824e64d9e4a345af0800000000000000
+      internalID: -408637556863343576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _wip__emerald_brendan_dppt_hgss_gen_4_sprite_sheet_by_hyo_oppa_deammik_53
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 74
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abf5a1a0a27027ba0800000000000000
+      internalID: -6092799468739338310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _wip__emerald_brendan_dppt_hgss_gen_4_sprite_sheet_by_hyo_oppa_deammik_54
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 73
+        width: 30
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d93c95b62ada333b0800000000000000
+      internalID: -5533888604010855523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _wip__emerald_brendan_dppt_hgss_gen_4_sprite_sheet_by_hyo_oppa_deammik_55
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 6
+        width: 48
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ceb09a0bffc573e0800000000000000
+      internalID: -2056508977703764279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _wip__emerald_brendan_dppt_hgss_gen_4_sprite_sheet_by_hyo_oppa_deammik_56
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 6
+        width: 59
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c8d5cb6d8ec3b630800000000000000
+      internalID: 3941721205673154755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _wip__emerald_brendan_dppt_hgss_gen_4_sprite_sheet_by_hyo_oppa_deammik_57
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 6
+        width: 65
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 247719d8979f8f5a0800000000000000
+      internalID: -6487160962765719742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _wip__emerald_brendan_dppt_hgss_gen_4_sprite_sheet_by_hyo_oppa_deammik_58
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 6
+        width: 67
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d63d3f19d9bc214e0800000000000000
+      internalID: -2012322205862210707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _wip__emerald_brendan_dppt_hgss_gen_4_sprite_sheet_by_hyo_oppa_deammik_59
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 6
+        width: 67
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32b7d341a44c1e140800000000000000
+      internalID: 4747291304671410979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
